@@ -1,0 +1,8 @@
+{
+  "name": "sf_site_userauto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:userauto/sf_site.git",
+  "author": "Eugene Vigonny <eugene_vigonny@lineate.com>",
+  "license": "MIT"
+}
